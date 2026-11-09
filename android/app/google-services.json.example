@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "91720458801",
+    "project_id": "sondhan-9e65d",
+    "storage_bucket": "sondhan-9e65d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91720458801:android:344933a87ec3ce361deb10",
+        "android_client_info": {
+          "package_name": "com.sondhan.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91720458801-l2q0rcd5hmr0pdvn0nn9pp4tsjdsndo5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sondhan.app",
+            "certificate_hash": "60d67471f23c81961f820019948c31eec4d2ce55"
+          }
+        },
+        {
+          "client_id": "91720458801-uni348lbdga4ujbouqk47iv7r71ccbo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "YOUR_GOOGLE_API_KEY_HERE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91720458801-uni348lbdga4ujbouqk47iv7r71ccbo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
