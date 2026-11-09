@@ -1,0 +1,7 @@
+## Android SDK location
+sdk.dir=C\:\\Users\\YOUR_USERNAME\\AppData\\Local\\Android\\Sdk
+
+## AI Engine API Keys (Private - never commit local.properties to git)
+ANTHROPIC_API_KEY=YOUR_ANTHROPIC_API_KEY_HERE
+APIFY_TOKEN=YOUR_APIFY_TOKEN_HERE
+

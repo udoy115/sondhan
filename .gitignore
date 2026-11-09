@@ -1,0 +1,28 @@
+# Gradle and Build Cache
+.gradle/
+build/
+android/.gradle/
+android/build/
+android/app/build/
+*.apk
+*.aab
+
+# Local SDK & Secret API Keys (CRITICAL: Do NOT remove)
+local.properties
+.env
+*.key
+*.keystore
+*.jks
+
+# IDE & OS Configuration
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+capture/
+
+# Legacy non-Android folders
+node_modules/
+/src/
+dist/
