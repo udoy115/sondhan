@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Sondhan</string>
+    <string name="title_activity_main">Sondhan</string>
+    <string name="tagline">Real-Time AI Fact Checker</string>
+    <string name="tab_text">Text</string>
+    <string name="tab_image">Image</string>
+    <string name="tab_url">URL</string>
+    <string name="verify_claim">Verify Claim</string>
+    <string name="verify_image">Verify Image</string>
+    <string name="verify_url">Verify URL</string>
+    <string name="claim_label">Claim Analyzed</string>
+    <string name="sources_label">Sources Consulted</string>
+    <string name="summary_label">10-Sentence AI Summary</string>
+    <string name="chat_label">Ask AI Assistant</string>
+    <string name="send">Send</string>
+    <string name="login">Log In</string>
+    <string name="register">Register</string>
+    <string name="logout">Log Out</string>
+    <string name="history">History</string>
+    <string name="home">Home</string>
+</resources>

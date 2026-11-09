@@ -1,3 +1,9 @@
+File googleServicesFile = file("google-services.json")
+File googleServicesExample = file("google-services.json.example")
+if (!googleServicesFile.exists() && googleServicesExample.exists()) {
+    googleServicesFile.text = googleServicesExample.text
+}
+
 plugins {
     id 'com.android.application'
     id 'com.google.gms.google-services'
